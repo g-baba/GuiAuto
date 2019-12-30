@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# 12/30/2019
 
 ##PyAutoGUIのモジュール
 import pyautogui
